@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-</details>
+<summary>:zap: Github Stats</summary>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ulises-jeremias)](https://github.com/anuraghazra/github-readme-stats)
+
