@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'll think about it
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true)
