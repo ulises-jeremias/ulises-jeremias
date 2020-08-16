@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'll think about it
 
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
