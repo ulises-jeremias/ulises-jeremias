@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'll think about it
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 <summary>:zap: Github Stats</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ulises-jeremias)](https://github.com/anuraghazra/github-readme-stats)
