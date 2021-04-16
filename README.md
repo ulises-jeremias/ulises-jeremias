@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'll think about it
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true)
+<center>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="48.75%" style="margin-left: 2.5%; margin-right: 5%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="48.75%" />
+
+</center>
