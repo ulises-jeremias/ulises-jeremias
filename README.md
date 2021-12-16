@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [Create Node App](https://github.com/Create-Node-App) and [Royal Linux](https://github.com/Royal-Linux)
 - 💬 Ask me about anything!
 - 📫 How to reach me: ulisescf.24@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'll think about it
 
 <center>
