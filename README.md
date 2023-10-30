@@ -15,10 +15,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="48.75%" srcset="./profile-3d-contrib/profile-south-season.svg"/>
-  <img alt="GitHub Stats" align="left" width="48.75%" src="./profile-3d-contrib/profile-south-season.svg"/>
+  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="55%" srcset="./profile-3d-contrib/profile-south-season.svg"/>
+  <img alt="GitHub Stats" align="left" width="55%" src="./profile-3d-contrib/profile-south-season.svg"/>
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="44.75%" style="margin-left: 2.5%; margin-right: 5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" style="margin-left: 2.5%; margin-right: 5%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="44.75%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="40%" />
