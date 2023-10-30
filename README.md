@@ -3,11 +3,6 @@
 
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="48.75%" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-  <img alt="GitHub Stats" align="left" width="45%" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-</picture>
-
 - 🔭 I’m currently working on [V Scientific Library](https://github.com/vlang/vsl), [V Tensor Library](https://github.com/vlang/vtl), [Dotfiles generator](https://github.com/ulises-jeremias/dotfiles) and [Create Awesome Node App](https://github.com/Create-Node-App/create-node-app)!
 - 🌱 I’m currently learning more about Science Computation and Linux distros development
 - 👯 I’m looking to collaborate on anything Linux, Science Computing or Machine Learning related!
@@ -19,6 +14,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="48.75%" style="margin-left: 2.5%; margin-right: 5%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="48.75%" srcset="./profile-3d-contrib/profile-south-season.svg"/>
+  <img alt="GitHub Stats" align="left" width="48.75%" src="./profile-3d-contrib/profile-south-season.svg"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="48.75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="44.75%" style="margin-left: 2.5%; margin-right: 5%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="44.75%" />
