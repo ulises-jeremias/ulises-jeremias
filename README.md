@@ -14,7 +14,7 @@
 
 ## GitRoll Profile
 
-<a href="https://gitroll.io/profile/u72wlf8k3I7gDkpki7129JJOSlop2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72wlf8k3I7gDkpki7129JJOSlop2" alt="GitRoll Profile Badge"/></a>\
+<a href="https://gitroll.io/profile/u72wlf8k3I7gDkpki7129JJOSlop2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72wlf8k3I7gDkpki7129JJOSlop2" alt="GitRoll Profile Badge"/></a>
 
 ## &#x1f4c8; GitHub Stats
 
