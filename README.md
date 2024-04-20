@@ -12,6 +12,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'll think about it
 
+## GitRoll Profile
+
+<a href="https://gitroll.io/profile/u72wlf8k3I7gDkpki7129JJOSlop2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72wlf8k3I7gDkpki7129JJOSlop2" alt="GitRoll Profile Badge"/></a>\
+
 ## &#x1f4c8; GitHub Stats
 
 <picture>
@@ -19,8 +23,6 @@
   <img alt="GitHub Stats" align="left" width="55%" src="./profile-3d-contrib/profile-south-season.svg"/>
 </picture>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" style="margin-left: 2.5%; margin-right: 5%" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" style="margin-left: 2.5%; margin-right: 5%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="40%" />
-
-<a href="https://gitroll.io/profile/u72wlf8k3I7gDkpki7129JJOSlop2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72wlf8k3I7gDkpki7129JJOSlop2" alt="GitRoll Profile Badge"/></a>
