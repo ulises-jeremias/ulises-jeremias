@@ -47,8 +47,6 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
   <img alt="GitHub Stats" align="left" width="55%" src="./profile-3d-contrib/profile-south-season.svg"/>
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulises-jeremias&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" style="margin-left: 2.5%; margin-right: 5%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises-jeremias&hide_border=true&count_private=true" width="40%" />
 
 ## GitRoll Profile
