@@ -22,7 +22,6 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 | [dotfiles](https://github.com/ulises-jeremias/dotfiles) | HorneroConfig — comprehensive dotfiles framework for any WM/OS | 124 |
 | [dots-ai](https://github.com/ulises-jeremias/dots-ai) | Personal AI developer workstation layer — agents, skills & CLI helpers for AI coding assistants | 1 |
 | [ai-workspace](https://github.com/ulises-jeremias/ai-workspace) | Portable AI workspace orchestrator — persistent memory, personas, skills for Claude Code, opencode, Cursor, Gemini CLI | — |
-| [clickup-cli](https://github.com/ulises-jeremias/clickup-cli) | ClickUp CLI for managing tasks, sprints, comments, and Docs | — |
 
 ### 🦄 V Language
 
@@ -39,7 +38,7 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 | [recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools) | DevTools for Recoil with hot reloading, action replay & customizable UI (archived) | 49 |
 | [nanlabs/awesome-nan](https://github.com/nanlabs/awesome-nan) | 🏆 Led by me — curated list of all NaNLABS open-source reference repos, boilerplates, and tools | — |
 
-> **@ NaNLABS:** I lead the initiative for open-source reference repositories and boilerplates. Everything is catalogued in [awesome-nan](https://github.com/nanlabs/awesome-nan) — including [terraform-aws-modules](https://github.com/nanlabs/terraform-aws-modules), [devops-reference](https://github.com/nanlabs/devops-reference), [react-boilerplate](https://github.com/nanlabs/react-boilerplate), and [80+ more](https://github.com/nanlabs) public repos.
+> **@ NaNLABS:** I lead the initiative for open-source reference repositories and boilerplates. Everything is catalogued in [awesome-nan](https://github.com/nanlabs/awesome-nan) — including [terraform-aws-modules](https://github.com/nanlabs/terraform-aws-modules), [devops-reference](https://github.com/nanlabs/devops-reference), and [20+ more](https://github.com/nanlabs) public repos.
 
 ## 📈 GitHub Stats
 
