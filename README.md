@@ -5,7 +5,7 @@
 
 I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/nanlabs), Core Team Member at [V](https://github.com/vlang), and AUR Maintainer. I build developer tooling, AI-powered workflows, CLI apps, and infrastructure automation — mostly in TypeScript, Go, Shell, and Python.
 
-- 🔭 **Currently working on:** [HorneroConfig dotfiles](https://github.com/ulises-jeremias/dotfiles), [dots-ai](https://github.com/ulises-jeremias/dots-ai), [ai-workspace](https://github.com/ulises-jeremias/ai-workspace), [V Scientific Library (VSL)](https://github.com/vlang/vsl), and [V Tensor Library (VTL)](https://github.com/vlang/vtl)
+- 🔭 **Currently working on:** [HorneroConfig dotfiles](https://github.com/ulises-jeremias/dotfiles), [agentic-workstation](https://github.com/ulises-jeremias/agentic-workstation), [agentic-harness](https://github.com/ulises-jeremias/agentic-harness), [V Scientific Library (VSL)](https://github.com/vlang/vsl), and [V Tensor Library (VTL)](https://github.com/vlang/vtl)
 - 🌱 **Learning:** Science Computation, Linux distro development, AI-assisted workflows
 - 💬 **Ask me about** anything — I enjoy helping others!
 - 🌍 **Open to collaborating** on Linux tooling, CLI apps, AI agents, and science computing
@@ -17,11 +17,11 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 
 ### ⚙️ AI Workspace & Developer Tools
 
-| Repo | Description | ⭐ |
-|------|-------------|-----|
-| [dotfiles](https://github.com/ulises-jeremias/dotfiles) | HorneroConfig — comprehensive dotfiles framework for any WM/OS | 124 |
-| [dots-ai](https://github.com/ulises-jeremias/dots-ai) | Personal AI developer workstation layer — agents, skills & CLI helpers for AI coding assistants | 1 |
-| [ai-workspace](https://github.com/ulises-jeremias/ai-workspace) | Portable AI workspace orchestrator — persistent memory, personas, skills for Claude Code, opencode, Cursor, Gemini CLI | — |
+| Repo | Description |
+|------|-------------|
+| [dotfiles](https://github.com/ulises-jeremias/dotfiles) | HorneroConfig — comprehensive dotfiles framework for any WM/OS |
+| [agentic-workstation](https://github.com/ulises-jeremias/agentic-workstation) | Personal AI developer workstation layer — agents, skills & CLI helpers for AI coding assistants |
+| [agentic-harness](https://github.com/ulises-jeremias/agentic-harness) | Portable AI workspace orchestrator — persistent memory, personas, skills for Claude Code, opencode, Cursor, Gemini CLI |
 
 ### 🦄 V Language
 
@@ -29,14 +29,16 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 |------|-------------|
 | [V Scientific Library (VSL)](https://github.com/vlang/vsl) | Scientific computing library for V — numerical methods, linear algebra, statistics |
 | [V Tensor Library (VTL)](https://github.com/vlang/vtl) | Tensor and ML library for V |
+| [setup-v](https://github.com/vlang/setup-v) | https://github.com/vlang/setup-v |
+| [rxv](https://github.com/ulises-jeremias/rxv) | Reactive Extensions for the V language |
 
 ### 🚀 Open Source & Community
 
-| Repo | Description | ⭐ |
-|------|-------------|-----|
-| [Create Awesome Node App](https://github.com/Create-Node-App/create-node-app) | CLI to scaffold Node.js apps — React, NestJS, Monorepos, WebExtensions, Docker | 88 |
-| [recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools) | DevTools for Recoil with hot reloading, action replay & customizable UI (archived) | 49 |
-| [nanlabs/awesome-nan](https://github.com/nanlabs/awesome-nan) | 🏆 Led by me — curated list of all NaNLABS open-source reference repos, boilerplates, and tools | — |
+| Repo | Description |
+|------|-------------|
+| [Create Node App](https://github.com/Create-Node-App) | CLI to scaffold Node.js apps — React, NestJS, Monorepos, WebExtensions, Docker |
+| [recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools) | DevTools for Recoil with hot reloading, action replay & customizable UI (archived) |
+| [nanlabs/awesome-nan](https://github.com/nanlabs/awesome-nan) | 🏆 Led by me — curated list of all NaNLABS open-source reference repos, boilerplates, and tools |
 
 > **@ NaNLABS:** I lead the initiative for open-source reference repositories and boilerplates. Everything is catalogued in [awesome-nan](https://github.com/nanlabs/awesome-nan) — including [terraform-aws-modules](https://github.com/nanlabs/terraform-aws-modules), [devops-reference](https://github.com/nanlabs/devops-reference), and [20+ more](https://github.com/nanlabs) public repos.
 
