@@ -10,7 +10,7 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 - 💬 **Ask me about** anything — I enjoy helping others!
 - 🌍 **Open to collaborating** on Linux tooling, CLI apps, AI agents, and science computing
 - 📫 **Reach me:** [ulisescf.24@gmail.com](mailto:ulisescf.24@gmail.com)
-- 💬 **Discord:** [Join the community](https://discord.gg/dwFTsR7fK2)
+- 💬 **Discord:** [Join the community](https://discord.gg/bR5VyATgka)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm also a hornero 🐦 — I always build my own nest from scratch
 
@@ -61,6 +61,6 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 <p align="center">
   <a href="https://twitter.com/ulisesjcf"><img src="https://img.shields.io/twitter/follow/ulisesjcf?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/ulisesjcf/"><img src="https://img.shields.io/badge/LinkedIn-ulisesjcf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/dwFTsR7fK2"><img src="https://img.shields.io/discord/1527933660764831825?style=for-the-badge&label=Discord&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/bR5VyATgka"><img src="https://img.shields.io/discord/1527933660764831825?style=for-the-badge&label=Discord&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:ulisescf.24@gmail.com"><img src="https://img.shields.io/badge/Email-ulisescf.24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
