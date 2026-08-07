@@ -23,6 +23,7 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 | [dotfiles](https://github.com/ulises-jeremias/dotfiles) | HorneroConfig — comprehensive dotfiles framework for any WM/OS |
 | [agentic-workstation](https://github.com/ulises-jeremias/agentic-workstation) | Personal AI developer workstation layer — agents, skills & CLI helpers for AI coding assistants |
 | [agentic-harness](https://github.com/ulises-jeremias/agentic-harness) | Portable AI workspace orchestrator — persistent memory, personas, skills for Claude Code, opencode, Cursor, Gemini CLI |
+| [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | Composable AI agent toolkit — skills, agents, loops, and MCP templates for Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi |
 
 ### 🦄 V Language
 
