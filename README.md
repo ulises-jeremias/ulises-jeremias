@@ -44,6 +44,56 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 
 > **@ NaNLABS:** I lead the initiative for open-source reference repositories and boilerplates. Everything is catalogued in [awesome-nan](https://github.com/nanlabs/awesome-nan) — including [terraform-aws-modules](https://github.com/nanlabs/terraform-aws-modules), [devops-reference](https://github.com/nanlabs/devops-reference), and [20+ more](https://github.com/nanlabs) public repos.
 
+## Published Packages
+
+Package metadata and download data come from the registries; `img.shields.io` serves the badge images. Download counts are monthly registry downloads, not unique users or installations.
+
+### npm
+
+| Project | Package | Version | Monthly downloads |
+|---------|---------|---------|-------------------|
+| [Create Node App](https://github.com/Create-Node-App/create-node-app) | [`create-awesome-node-app`](https://www.npmjs.com/package/create-awesome-node-app) | [![npm version](https://img.shields.io/npm/v/create-awesome-node-app?logo=npm)](https://www.npmjs.com/package/create-awesome-node-app) | [![npm downloads](https://img.shields.io/npm/dm/create-awesome-node-app?logo=npm)](https://www.npmjs.com/package/create-awesome-node-app) |
+| [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit-cli`](https://www.npmjs.com/package/agent-toolkit-cli) | [![npm version](https://img.shields.io/npm/v/agent-toolkit-cli?logo=npm)](https://www.npmjs.com/package/agent-toolkit-cli) | [![npm downloads](https://img.shields.io/npm/dm/agent-toolkit-cli?logo=npm)](https://www.npmjs.com/package/agent-toolkit-cli) |
+| [recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools) | [`recoil-devtools`](https://www.npmjs.com/package/recoil-devtools) | [![npm version](https://img.shields.io/npm/v/recoil-devtools?logo=npm)](https://www.npmjs.com/package/recoil-devtools) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools?logo=npm)](https://www.npmjs.com/package/recoil-devtools) |
+| ↳ Recoil package | [`recoil-devtools-dock`](https://www.npmjs.com/package/recoil-devtools-dock) | [![npm version](https://img.shields.io/npm/v/recoil-devtools-dock?logo=npm)](https://www.npmjs.com/package/recoil-devtools-dock) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools-dock?logo=npm)](https://www.npmjs.com/package/recoil-devtools-dock) |
+| ↳ Recoil package | [`recoil-devtools-log-monitor`](https://www.npmjs.com/package/recoil-devtools-log-monitor) | [![npm version](https://img.shields.io/npm/v/recoil-devtools-log-monitor?logo=npm)](https://www.npmjs.com/package/recoil-devtools-log-monitor) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools-log-monitor?logo=npm)](https://www.npmjs.com/package/recoil-devtools-log-monitor) |
+| ↳ Recoil package | [`recoil-devtools-logger`](https://www.npmjs.com/package/recoil-devtools-logger) | [![npm version](https://img.shields.io/npm/v/recoil-devtools-logger?logo=npm)](https://www.npmjs.com/package/recoil-devtools-logger) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools-logger?logo=npm)](https://www.npmjs.com/package/recoil-devtools-logger) |
+| ↳ Recoil package | [`recoil-devtools-themes`](https://www.npmjs.com/package/recoil-devtools-themes) | [![npm version](https://img.shields.io/npm/v/recoil-devtools-themes?logo=npm)](https://www.npmjs.com/package/recoil-devtools-themes) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools-themes?logo=npm)](https://www.npmjs.com/package/recoil-devtools-themes) |
+| ↳ Recoil package | [`recoil-devtools-danger`](https://www.npmjs.com/package/recoil-devtools-danger) | [![npm version](https://img.shields.io/npm/v/recoil-devtools-danger?logo=npm)](https://www.npmjs.com/package/recoil-devtools-danger) | [![npm downloads](https://img.shields.io/npm/dm/recoil-devtools-danger?logo=npm)](https://www.npmjs.com/package/recoil-devtools-danger) |
+
+### PyPI
+
+| Project | Package | Version | Monthly downloads |
+|---------|---------|---------|-------------------|
+| [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://pypi.org/project/create-awesome-python-app/) | [![PyPI version](https://img.shields.io/pypi/v/create-awesome-python-app?logo=pypi)](https://pypi.org/project/create-awesome-python-app/) | [![PyPI downloads](https://img.shields.io/pypi/dm/create-awesome-python-app?logo=pypi)](https://pypi.org/project/create-awesome-python-app/) |
+| [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit-cli`](https://pypi.org/project/agent-toolkit-cli/) | [![PyPI version](https://img.shields.io/pypi/v/agent-toolkit-cli?logo=pypi)](https://pypi.org/project/agent-toolkit-cli/) | [![PyPI downloads](https://img.shields.io/pypi/dm/agent-toolkit-cli?logo=pypi)](https://pypi.org/project/agent-toolkit-cli/) |
+
+### AUR
+
+| Project | Package | Version |
+|---------|---------|---------|
+| [Create Node App](https://github.com/Create-Node-App/create-node-app) | [`create-awesome-node-app`](https://aur.archlinux.org/packages/create-awesome-node-app) | [![AUR version](https://img.shields.io/aur/version/create-awesome-node-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-node-app) |
+| [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://aur.archlinux.org/packages/create-awesome-python-app) | [![AUR version](https://img.shields.io/aur/version/create-awesome-python-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-python-app) |
+| [Create Vlang App](https://github.com/Create-Vlang-App/create-vlang-app) | [`create-vlang-app`](https://aur.archlinux.org/packages/create-vlang-app) | [![AUR version](https://img.shields.io/aur/version/create-vlang-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-vlang-app) |
+| [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit`](https://aur.archlinux.org/packages/agent-toolkit) · [`agent-toolkit-bin`](https://aur.archlinux.org/packages/agent-toolkit-bin) | [![AUR version](https://img.shields.io/aur/version/agent-toolkit?logo=arch-linux)](https://aur.archlinux.org/packages/agent-toolkit) [![AUR binary version](https://img.shields.io/aur/version/agent-toolkit-bin?logo=arch-linux)](https://aur.archlinux.org/packages/agent-toolkit-bin) |
+
+### Homebrew
+
+| Project | Formula | Tap |
+|---------|---------|-----|
+| [Create Node App](https://github.com/Create-Node-App/create-node-app) | [`create-awesome-node-app`](https://github.com/Create-Node-App/homebrew-tap) | [`Create-Node-App/homebrew-tap`](https://github.com/Create-Node-App/homebrew-tap) |
+| [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://github.com/Create-Python-App/homebrew-tap) | [`Create-Python-App/homebrew-tap`](https://github.com/Create-Python-App/homebrew-tap) |
+| [Create Vlang App](https://github.com/Create-Vlang-App/create-vlang-app) | [`create-vlang-app`](https://github.com/Create-Vlang-App/homebrew-tap) | [`Create-Vlang-App/homebrew-tap`](https://github.com/Create-Vlang-App/homebrew-tap) |
+| [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit`](https://formulae.brew.sh/formula/agent-toolkit) | [`ulises-jeremias/homebrew-tap`](https://github.com/ulises-jeremias/homebrew-tap) |
+
+For platforms without a stable public monthly-download metric, the table links the package or tap directly instead of presenting an estimated number.
+
+## Community
+
+Questions, ideas, template requests, and collaboration are welcome in the Create Awesome community.
+
+[![Join the Discord community](https://img.shields.io/discord/1527933660764831825?label=Join%20Discord&logo=discord&logoColor=white)](https://discord.gg/bR5VyATgka)
+
 ## 📈 GitHub Stats
 
 <picture>
