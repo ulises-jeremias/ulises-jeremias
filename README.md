@@ -88,6 +88,12 @@ Package metadata and download data come from the registries; `img.shields.io` se
 
 For platforms without a stable public monthly-download metric, the table links the package or tap directly instead of presenting an estimated number.
 
+## Community
+
+Questions, ideas, template requests, and collaboration are welcome in the Create Awesome community.
+
+[![Join the Discord community](https://img.shields.io/discord/1527933660764831825?label=Join%20Discord&logo=discord&logoColor=white)](https://discord.gg/bR5VyATgka)
+
 ## 📈 GitHub Stats
 
 <picture>
