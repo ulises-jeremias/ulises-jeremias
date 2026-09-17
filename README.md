@@ -39,6 +39,7 @@ I'm **Ulises Jeremias** — Solutions Architect at [NaNLABS](https://github.com/
 | Repo | Description |
 |------|-------------|
 | [Create Node App](https://github.com/Create-Node-App) | CLI to scaffold Node.js apps — React, NestJS, Monorepos, WebExtensions, Docker |
+| [Create Rust App](https://github.com/Create-Rust-App) | CLI to scaffold Rust apps — Axum, Leptos, tonic gRPC, workers, CLIs, libraries |
 | [recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools) | DevTools for Recoil with hot reloading, action replay & customizable UI (archived) |
 | [nanlabs/awesome-nan](https://github.com/nanlabs/awesome-nan) | 🏆 Led by me — curated list of all NaNLABS open-source reference repos, boilerplates, and tools |
 
@@ -67,6 +68,12 @@ Package metadata and download data come from the registries; `img.shields.io` se
 | [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://pypi.org/project/create-awesome-python-app/) | [![PyPI version](https://img.shields.io/pypi/v/create-awesome-python-app?logo=pypi)](https://pypi.org/project/create-awesome-python-app/) | [![PyPI downloads](https://img.shields.io/pypi/dm/create-awesome-python-app?logo=pypi)](https://pypi.org/project/create-awesome-python-app/) |
 | [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit-cli`](https://pypi.org/project/agent-toolkit-cli/) | [![PyPI version](https://img.shields.io/pypi/v/agent-toolkit-cli?logo=pypi)](https://pypi.org/project/agent-toolkit-cli/) | [![PyPI downloads](https://img.shields.io/pypi/dm/agent-toolkit-cli?logo=pypi)](https://pypi.org/project/agent-toolkit-cli/) |
 
+### crates.io
+
+| Project | Package | Version | Monthly downloads |
+|---------|---------|---------|-------------------|
+| [Create Rust App](https://github.com/Create-Rust-App/create-rust-app) | [`create-awesome-rust-app`](https://crates.io/crates/create-awesome-rust-app) | [![crates.io version](https://img.shields.io/crates/v/create-awesome-rust-app?logo=rust)](https://crates.io/crates/create-awesome-rust-app) | [![crates.io downloads](https://img.shields.io/crates/d/create-awesome-rust-app?logo=rust)](https://crates.io/crates/create-awesome-rust-app) |
+
 ### AUR
 
 | Project | Package | Version |
@@ -74,6 +81,7 @@ Package metadata and download data come from the registries; `img.shields.io` se
 | [Create Node App](https://github.com/Create-Node-App/create-node-app) | [`create-awesome-node-app`](https://aur.archlinux.org/packages/create-awesome-node-app) | [![AUR version](https://img.shields.io/aur/version/create-awesome-node-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-node-app) |
 | [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://aur.archlinux.org/packages/create-awesome-python-app) | [![AUR version](https://img.shields.io/aur/version/create-awesome-python-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-python-app) |
 | [Create Vlang App](https://github.com/Create-Vlang-App/create-vlang-app) | [`create-awesome-vlang-app`](https://aur.archlinux.org/packages/create-awesome-vlang-app) | [![AUR version](https://img.shields.io/aur/version/create-awesome-vlang-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-vlang-app) |
+| [Create Rust App](https://github.com/Create-Rust-App/create-rust-app) | [`create-awesome-rust-app`](https://aur.archlinux.org/packages/create-awesome-rust-app) · [`create-awesome-rust-app-bin`](https://aur.archlinux.org/packages/create-awesome-rust-app-bin) | [![AUR version](https://img.shields.io/aur/version/create-awesome-rust-app?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-rust-app) [![AUR binary version](https://img.shields.io/aur/version/create-awesome-rust-app-bin?logo=arch-linux)](https://aur.archlinux.org/packages/create-awesome-rust-app-bin) |
 | [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit`](https://aur.archlinux.org/packages/agent-toolkit) · [`agent-toolkit-bin`](https://aur.archlinux.org/packages/agent-toolkit-bin) | [![AUR version](https://img.shields.io/aur/version/agent-toolkit?logo=arch-linux)](https://aur.archlinux.org/packages/agent-toolkit) [![AUR binary version](https://img.shields.io/aur/version/agent-toolkit-bin?logo=arch-linux)](https://aur.archlinux.org/packages/agent-toolkit-bin) |
 
 ### Homebrew
@@ -83,6 +91,7 @@ Package metadata and download data come from the registries; `img.shields.io` se
 | [Create Node App](https://github.com/Create-Node-App/create-node-app) | [`create-awesome-node-app`](https://github.com/Create-Node-App/homebrew-tap) | [`Create-Node-App/homebrew-tap`](https://github.com/Create-Node-App/homebrew-tap) |
 | [Create Python App](https://github.com/Create-Python-App/create-python-app) | [`create-awesome-python-app`](https://github.com/Create-Python-App/homebrew-tap) | [`Create-Python-App/homebrew-tap`](https://github.com/Create-Python-App/homebrew-tap) |
 | [Create Vlang App](https://github.com/Create-Vlang-App/create-vlang-app) | [`create-vlang-app`](https://github.com/Create-Vlang-App/homebrew-tap) | [`Create-Vlang-App/homebrew-tap`](https://github.com/Create-Vlang-App/homebrew-tap) |
+| [Create Rust App](https://github.com/Create-Rust-App/create-rust-app) | [`create-awesome-rust-app`](https://github.com/Create-Rust-App/homebrew-tap) | [`Create-Rust-App/homebrew-tap`](https://github.com/Create-Rust-App/homebrew-tap) |
 | [agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) | [`agent-toolkit`](https://formulae.brew.sh/formula/agent-toolkit) | [`ulises-jeremias/homebrew-tap`](https://github.com/ulises-jeremias/homebrew-tap) |
 
 For platforms without a stable public monthly-download metric, the table links the package or tap directly instead of presenting an estimated number.
